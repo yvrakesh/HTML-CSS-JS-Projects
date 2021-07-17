@@ -18,10 +18,13 @@ body {
   height: 100vh;
   overflow: hidden;
   margin: 0;
+  width: 100%;
 }
+
 
 .container {
   text-align: center;
+  width: 70%;
 }
 
 .progress-container {
@@ -29,8 +32,6 @@ body {
   justify-content: space-between;
   position: relative;
   margin-bottom: 30px;
-  max-width: 100%;
-  width: 350px;
 }
 
 .progress-container::before {

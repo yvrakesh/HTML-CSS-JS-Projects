@@ -25,6 +25,33 @@ prev.addEventListener('click', () => {
     update()
 })
 
+circles.forEach((circle,idx)=>{
+    circle.addEventListener('click',()=>{
+        currentActive = idx+1;
+        circles.forEach(circle1 => {
+            circle1.classList.remove('active')
+        })
+        circles.forEach((circle1,idx1) => {
+            circle1.classList.add('active')
+            if(idx < idx1){
+                circle1.classList.remove('active')
+            }
+        })
+        const actives = document.querySelectorAll('.active')
+
+        progress.style.width = (actives.length - 1) / (circles.length - 1) * 100 + '%'
+        
+        if(currentActive === 1) {
+            prev.disabled = true
+        } else if(currentActive === circles.length) {
+            next.disabled = true
+        } else {
+            prev.disabled = false
+            next.disabled = false
+        }
+    })
+})
+
 function update() {
     circles.forEach((circle, idx) => {
         if(idx < currentActive) {
