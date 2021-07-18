@@ -16,3 +16,4 @@ Doing as part of a Udemy Course
 |09|[Sound Board](https://github.com/yvrakesh/50-Projects-In-50-Days-HTML-CSS-JavaScript/tree/main/Project-09)|[View Deployment](https://yvrakesh.github.io/50-Projects-In-50-Days-HTML-CSS-JavaScript/Project-09/)|
 |10|[Dad Jokes](https://github.com/yvrakesh/50-Projects-In-50-Days-HTML-CSS-JavaScript/tree/main/Project-10)|[View Deployment](https://yvrakesh.github.io/50-Projects-In-50-Days-HTML-CSS-JavaScript/Project-10/)|
 |11|[Event KeyCodes](https://github.com/yvrakesh/50-Projects-In-50-Days-HTML-CSS-JavaScript/tree/main/Project-11)|[View Deployment](https://yvrakesh.github.io/50-Projects-In-50-Days-HTML-CSS-JavaScript/Project-11/)|
+|12|[FAQ Collapse](https://github.com/yvrakesh/50-Projects-In-50-Days-HTML-CSS-JavaScript/tree/main/Project-12)|[View Deployment](https://yvrakesh.github.io/50-Projects-In-50-Days-HTML-CSS-JavaScript/Project-12/)|
