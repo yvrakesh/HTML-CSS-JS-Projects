@@ -18,7 +18,7 @@ function getData() {
   excerpt.innerHTML =
     'Interested in ML, Data Science, Web Development, Cyber Security.'
   profile_img.innerHTML =
-    '<img src="My Photo.jpg" alt="" />'
+    '<img src="My photo.jpg" alt="" />'
   name.innerHTML = 'Y V Rakesh'
   date.innerHTML = 'July 19, 2021'
 
