@@ -24,3 +24,4 @@ Doing as part of a Udemy Course
 |17|[Movie App](https://github.com/yvrakesh/50-Projects-In-50-Days-HTML-CSS-JavaScript/tree/main/Code/Project-17)|[View Deployment](https://yvrakesh.github.io/50-Projects-In-50-Days-HTML-CSS-JavaScript/Code/Project-17/)|
 |18|[Background Slider](https://github.com/yvrakesh/50-Projects-In-50-Days-HTML-CSS-JavaScript/tree/main/Code/Project-18)|[View Deployment](https://yvrakesh.github.io/50-Projects-In-50-Days-HTML-CSS-JavaScript/Code/Project-18/)|
 |19|[Theme Clock](https://github.com/yvrakesh/50-Projects-In-50-Days-HTML-CSS-JavaScript/tree/main/Code/Project-19)|[View Deployment](https://yvrakesh.github.io/50-Projects-In-50-Days-HTML-CSS-JavaScript/Code/Project-19/)|
+|20|[Button Ripple Effect](https://github.com/yvrakesh/50-Projects-In-50-Days-HTML-CSS-JavaScript/tree/main/Code/Project-20)|[View Deployment](https://yvrakesh.github.io/50-Projects-In-50-Days-HTML-CSS-JavaScript/Code/Project-20/)|
