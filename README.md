@@ -1,7 +1,10 @@
 # 50-Projects-In-50-Days-HTML-CSS-JavaScript
 Doing as part of a Udemy Course
 
-
+<table>
+<tr><th>Project- 01 to 25</th><th>Project- 26 to 50</th></tr>
+<tr>
+<td>
 
 |S.No.|Source Code|Live Demo|
 | - | - | - |
@@ -26,3 +29,15 @@ Doing as part of a Udemy Course
 |19|[Theme Clock](https://github.com/yvrakesh/50-Projects-In-50-Days-HTML-CSS-JavaScript/tree/main/Code/Project-19)|[View Deployment](https://yvrakesh.github.io/50-Projects-In-50-Days-HTML-CSS-JavaScript/Code/Project-19/)|
 |20|[Button Ripple Effect](https://github.com/yvrakesh/50-Projects-In-50-Days-HTML-CSS-JavaScript/tree/main/Code/Project-20)|[View Deployment](https://yvrakesh.github.io/50-Projects-In-50-Days-HTML-CSS-JavaScript/Code/Project-20/)|
 |21|[Drag N Drop](https://github.com/yvrakesh/50-Projects-In-50-Days-HTML-CSS-JavaScript/tree/main/Code/Project-21)|[View Deployment](https://yvrakesh.github.io/50-Projects-In-50-Days-HTML-CSS-JavaScript/Code/Project-21/)|
+</td>
+
+<td>
+
+|S.No.|Source Code|Live Demo|
+| - | - | - | 
+  
+</td>
+</tr> </table>
+
+
+
