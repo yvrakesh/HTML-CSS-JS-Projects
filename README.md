@@ -22,3 +22,4 @@ Doing as part of a Udemy Course
 |15|[Incrementing Counter](https://github.com/yvrakesh/50-Projects-In-50-Days-HTML-CSS-JavaScript/tree/main/Code/Project-15)|[View Deployment](https://yvrakesh.github.io/50-Projects-In-50-Days-HTML-CSS-JavaScript/Code/Project-15/)|
 |16|[Drink Water](https://github.com/yvrakesh/50-Projects-In-50-Days-HTML-CSS-JavaScript/tree/main/Code/Project-16)|[View Deployment](https://yvrakesh.github.io/50-Projects-In-50-Days-HTML-CSS-JavaScript/Code/Project-16/)|
 |17|[Movie App](https://github.com/yvrakesh/50-Projects-In-50-Days-HTML-CSS-JavaScript/tree/main/Code/Project-17)|[View Deployment](https://yvrakesh.github.io/50-Projects-In-50-Days-HTML-CSS-JavaScript/Code/Project-17/)|
+|18|[Background Slider](https://github.com/yvrakesh/50-Projects-In-50-Days-HTML-CSS-JavaScript/tree/main/Code/Project-18)|[View Deployment](https://yvrakesh.github.io/50-Projects-In-50-Days-HTML-CSS-JavaScript/Code/Project-18/)|
