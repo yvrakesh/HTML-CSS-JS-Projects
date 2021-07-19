@@ -30,6 +30,7 @@ Doing as part of a Udemy Course
 |20|[Button Ripple Effect](https://github.com/yvrakesh/50-Projects-In-50-Days-HTML-CSS-JavaScript/tree/main/Code/Project-20)|[View Deployment](https://yvrakesh.github.io/50-Projects-In-50-Days-HTML-CSS-JavaScript/Code/Project-20/)|
 |21|[Drag N Drop](https://github.com/yvrakesh/50-Projects-In-50-Days-HTML-CSS-JavaScript/tree/main/Code/Project-21)|[View Deployment](https://yvrakesh.github.io/50-Projects-In-50-Days-HTML-CSS-JavaScript/Code/Project-21/)|
 |22|[Drawing App](https://github.com/yvrakesh/50-Projects-In-50-Days-HTML-CSS-JavaScript/tree/main/Code/Project-22)|[View Deployment](https://yvrakesh.github.io/50-Projects-In-50-Days-HTML-CSS-JavaScript/Code/Project-22/)|
+|23|[Kinetic Loader](https://github.com/yvrakesh/50-Projects-In-50-Days-HTML-CSS-JavaScript/tree/main/Code/Project-23)|[View Deployment](https://yvrakesh.github.io/50-Projects-In-50-Days-HTML-CSS-JavaScript/Code/Project-23/)|
 </td>
 
 <td>
