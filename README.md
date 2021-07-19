@@ -40,6 +40,7 @@ Doing as part of a Udemy Course
 |S.No.|Source Code|Live Demo|
 | - | - | - | 
 |26|[Vertical Slider](https://github.com/yvrakesh/50-Projects-In-50-Days-HTML-CSS-JavaScript/tree/main/Code/Project-26)|[View Deployment](https://yvrakesh.github.io/50-Projects-In-50-Days-HTML-CSS-JavaScript/Code/Project-26/)|  
+|27|[Toast Notification](https://github.com/yvrakesh/50-Projects-In-50-Days-HTML-CSS-JavaScript/tree/main/Code/Project-27)|[View Deployment](https://yvrakesh.github.io/50-Projects-In-50-Days-HTML-CSS-JavaScript/Code/Project-27/)|
 </td>
 </tr> </table>
 
