@@ -52,6 +52,7 @@ Doing as part of a Udemy Course
 |36|[Hover Board](https://github.com/yvrakesh/50-Projects-In-50-Days-HTML-CSS-JavaScript/tree/main/Code/Project-36)|[View Site](https://yvrakesh.github.io/50-Projects-In-50-Days-HTML-CSS-JavaScript/Code/Project-36/)|
 |37|[PokeDex](https://github.com/yvrakesh/50-Projects-In-50-Days-HTML-CSS-JavaScript/tree/main/Code/Project-37)|[View Site](https://yvrakesh.github.io/50-Projects-In-50-Days-HTML-CSS-JavaScript/Code/Project-37/)|
 |38|[Mobile Tab Navigation](https://github.com/yvrakesh/50-Projects-In-50-Days-HTML-CSS-JavaScript/tree/main/Code/Project-38)|[View Site](https://yvrakesh.github.io/50-Projects-In-50-Days-HTML-CSS-JavaScript/Code/Project-38/)|
+|39|[Password Strength Background](https://github.com/yvrakesh/50-Projects-In-50-Days-HTML-CSS-JavaScript/tree/main/Code/Project-39)|[View Site](https://yvrakesh.github.io/50-Projects-In-50-Days-HTML-CSS-JavaScript/Code/Project-39/)|
 </td>
 </tr> </table>
 
