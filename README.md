@@ -60,6 +60,7 @@ Doing as part of a Udemy Course
 |44|[Custom Range Slider](https://github.com/yvrakesh/50-Projects-In-50-Days-HTML-CSS-JavaScript/tree/main/Code/Project-44)|[View Site](https://yvrakesh.github.io/50-Projects-In-50-Days-HTML-CSS-JavaScript/Code/Project-44/)|
 |45|[Netflix Mobile Navigation](https://github.com/yvrakesh/50-Projects-In-50-Days-HTML-CSS-JavaScript/tree/main/Code/Project-45)|[View Site](https://yvrakesh.github.io/50-Projects-In-50-Days-HTML-CSS-JavaScript/Code/Project-45/)|
 |46|[Quiz App](https://github.com/yvrakesh/50-Projects-In-50-Days-HTML-CSS-JavaScript/tree/main/Code/Project-46)|[View Site](https://yvrakesh.github.io/50-Projects-In-50-Days-HTML-CSS-JavaScript/Code/Project-46/)|
+|47|[Testimonial Box](https://github.com/yvrakesh/50-Projects-In-50-Days-HTML-CSS-JavaScript/tree/main/Code/Project-47)|[View Site](https://yvrakesh.github.io/50-Projects-In-50-Days-HTML-CSS-JavaScript/Code/Project-47/)|
 </td>
 </tr> </table>
 
