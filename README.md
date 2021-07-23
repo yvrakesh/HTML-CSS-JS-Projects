@@ -1,5 +1,5 @@
 # 50-Projects-In-50-Days-HTML-CSS-JavaScript
-Doing as part of a Udemy Course
+Completed all 50 Projects with slight modifications as part of Udemy course. Here's the [Link](https://www.udemy.com/course/50-projects-50-days/)
 
 <table>
 <tr><th>Project- 01 to 25</th><th>Project- 26 to 50</th></tr>
